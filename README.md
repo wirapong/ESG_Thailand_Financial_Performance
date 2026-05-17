@@ -54,7 +54,7 @@ Users are encouraged to conduct diagnostic tests (e.g., stationarity, multicolli
 The dataset contains no personal or sensitive information. All data are derived from publicly available corporate disclosures. No ethical approval was required.
 9. Citation
 If you use this dataset, please cite the associated article:
-Detthamrong, U.; Klangbunrueang, R.; Chansanam, W.; Dasri, R. The Impact of ESG Performance on Financial Performance: Evidence from Listed Companies in Thailand. Submitted to Forecasting.
+Detthamrong, U., Klangbunrueang, R., Chansanam, W., & Dasri, R. (2026). The Impact of ESG Performance on Financial Performance: Evidence from Listed Companies in Thailand. Forecasting, 8(1), 14. https://doi.org/10.3390/forecast8010014
 10. Contact
 For questions regarding the dataset or methodology, please contact:
 Wirapong Chansanam, Ph.D.
